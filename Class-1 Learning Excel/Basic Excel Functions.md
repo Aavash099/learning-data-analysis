@@ -1,5 +1,15 @@
-# Basic Excel Functions
-#### Basic Excel functions includes the following listed functions which will be described in brief later in the article 
+#Let's learn Excel 
+First step is to open the Excel application and start a blank workbook 
+Opening the workbook, you will notice lots of blank rectangles.
+##lets start by inserting the data 
+you can click/tap in any rectangle box to type in data in it , data can be anything like string, an integer, dates, and so on 
+
+
+
+
+
+## Basic Excel Functions
+#### Basic Excel functions includes the following listed functions, which will be described in brief later in the article 
   Some basic functions in excel are: <br>
   <ol>
   <li>IF</li>
@@ -24,4 +34,4 @@ references to cells, and functions. So that means,
 if you are calculating something in Excel you use formulas
 and use functions within your formulas.  
 <br>
-Now, let’s have a look at the 10 most fundamental functions in Excel.
+
